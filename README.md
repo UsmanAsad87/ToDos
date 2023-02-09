@@ -3,7 +3,7 @@
   <body>
     <h1>Todo App</h1>
     <p>Todo App is a simple task management tool that allows you to easily enter, mark as complete, and delete your daily tasks. The app uses the Provider package for state management and Sqflite for database management.</p>
-    <h2>Getting Started</h2>
+     <h2>Getting Started</h2>
     <p>These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.</p>
     <h3>Prerequisites</h3>
     <p>What things you need to install the software and how to install them:</p>
