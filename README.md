@@ -15,7 +15,7 @@
     <ol>
       <li>Clone the repository to your local machine using the following command:
       <pre>
-git clone https://github.com/[username]/todo-app.git
+git clone https://github.com/UsmanAsad87/ToDos.git
       </pre>
       </li>
       <li>Navigate to the project directory and run the following command to install the necessary packages:
