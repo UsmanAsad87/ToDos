@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
+
   <body>
     <h1>Todo App</h1>
     <p>Todo App is a simple task management tool that allows you to easily enter, mark as complete, and delete your daily tasks. The app uses the Provider package for state management and Sqflite for database management.</p>
+     <img src="https://user-images.githubusercontent.com/92229738/217927093-e5d1f568-a2b0-4115-aaca-a153155396d9.gif" height="500" style="color: #FF7A59;display: block; margin-left: auto; margin-right: auto;">
      <h2>Getting Started</h2>
     <p>These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.</p>
     <h3>Prerequisites</h3>
